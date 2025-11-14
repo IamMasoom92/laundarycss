@@ -85,19 +85,21 @@ nav li{
         display: none;
     }
     img{
-        margin-top: -100px;
+        margin-top: -80px;
         width: 300px;
     }
     .navbar{
-        margin-top: 10px;
+        margin-top: 5px;
     }
     .username{
         padding: 10px 20px;
         border-radius: 3px;
+        font-size: .75rem;
     }
     .upper-heading{
         font-size: 1.8rem;
         letter-spacing: 2.5px;
+        margin-top: -15px;
     }
     .hero-section{
         flex-direction: column-reverse;
@@ -109,6 +111,7 @@ nav li{
         margin: 20px 0;
     }
 }
+
 
 
 
