@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&family=Rubik:ital,wght@0,300..900;1,300..900&family=Vend+Sans:ital,wght@0,300..700;1,300..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Vend Sans", sans-serif;
+}
+.container{
+    height: 100vh;
+    margin: 0 5%;
+}
+.logo{
+    font-family: "Vend Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 3px;
+    color: #4B5B67;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    align-items: center;
+}
+nav{
+    display: inherit;
+    list-style: none;
+    gap: 30px;
+    font-size: 1.05rem;
+    letter-spacing: 1.5px;
+    color: #5A666F;
+}
+.username{
+    padding: 15px 25px;
+    border-radius: 5px;
+    background-color: #FCD9D7;
+}
+.hero-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5%;
+    grid-template-columns: 2fr 1fr;
+}
+.para{
+    color: #5A666F;
+    font-size: 1.2rem;
+    margin-bottom: 3%;
+}
+.upper-heading{
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #4B5B67;
+    letter-spacing: 5px;
+}
+.upper-heading span{
+    color: #FA8BBC;
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    padding: 15px 30px;
+    border-radius: 12.5px;
+    width: fit-content;
+    background-color: #FA8BBC;
+    color: #fff;
+}
