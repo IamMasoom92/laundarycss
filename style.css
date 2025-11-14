@@ -85,17 +85,18 @@ nav li{
         display: none;
     }
     img{
-        margin-top: -100px;
         width: 300px;
     }
     .upper-heading{
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     .hero-section{
         flex-direction: column-reverse;
     }
     .para{
-        font-size: 1.2rem;
+        font-size: 1.05rem;
+        margin-bottom: 5px;
     }
 }
+
 
