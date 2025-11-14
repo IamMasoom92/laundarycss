@@ -85,18 +85,31 @@ nav li{
         display: none;
     }
     img{
+        margin-top: -100px;
         width: 300px;
+    }
+    .navbar{
+        margin-top: 10px;
+    }
+    .username{
+        padding: 10px 20px;
+        border-radius: 3px;
     }
     .upper-heading{
         font-size: 1.8rem;
+        letter-spacing: 2.5px;
     }
     .hero-section{
         flex-direction: column-reverse;
     }
     .para{
-        font-size: 1.05rem;
-        margin-bottom: 5px;
+        font-size: 1rem;
+    }
+    .button{
+        margin: 20px 0;
     }
 }
+
+
 
 
