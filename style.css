@@ -89,7 +89,7 @@ nav li{
         width: 300px;
     }
     .navbar{
-        margin-top: 5px;
+        margin-top: 0;
     }
     .username{
         padding: 10px 20px;
@@ -99,7 +99,7 @@ nav li{
     .upper-heading{
         font-size: 1.8rem;
         letter-spacing: 2.5px;
-        margin-top: -50px;
+        margin-top: -55px;
     }
     .hero-section{
         flex-direction: column-reverse;
@@ -111,6 +111,7 @@ nav li{
         margin-top: 20px;
     }
 }
+
 
 
 
