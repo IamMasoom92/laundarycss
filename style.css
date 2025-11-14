@@ -80,3 +80,22 @@ nav li{
     color: #fff;
     cursor: pointer;
 }
+@media (max-width: 500px){
+    nav{
+        display: none;
+    }
+    img{
+        margin-top: -100px;
+        width: 300px;
+    }
+    .upper-heading{
+        font-size: 2rem;
+    }
+    .hero-section{
+        flex-direction: column-reverse;
+    }
+    .para{
+        font-size: 1.2rem;
+    }
+}
+
