@@ -85,7 +85,7 @@ nav li{
         display: none;
     }
     img{
-        margin-top: -80px;
+        margin-top: -70px;
         width: 300px;
     }
     .navbar{
@@ -99,7 +99,7 @@ nav li{
     .upper-heading{
         font-size: 1.8rem;
         letter-spacing: 2.5px;
-        margin-top: -15px;
+        margin-top: -30px;
     }
     .hero-section{
         flex-direction: column-reverse;
@@ -111,6 +111,7 @@ nav li{
         margin: 20px 0;
     }
 }
+
 
 
 
